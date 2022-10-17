@@ -2,11 +2,13 @@ description: Projeto para teste automatizado pra Mobile utilizando RobotFramewor
 name: robot-mobile-stackspot
 display-name: robot-mobile-stackspot
 picture: stack.png
-category: fackend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
+category: frontend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility: # Put a list of technologies compatible with the stack
-  - java
-technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
-  - docker
+  - Python 3.9
+  - VS Code (extensão Robot Framework Intellisense)
+  - Android Studio 2020.3.1
+  - Xcode 13
+  - Appium 1.20
 about: docs/about.md
 use-cases:
   - title: Configurar ambiente
