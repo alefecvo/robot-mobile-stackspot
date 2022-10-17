@@ -2,14 +2,12 @@ description: Projeto para teste automatizado pra Mobile utilizando RobotFramewor
 name: robot-mobile-stackspot
 display-name: robot-mobile-stackspot
 picture: stack.png
-category: frontend
+category: backend
 compatibility:
-  - Python 3.9
-  - VS Code (extensão Robot Framework Intellisense)
-  - Android Studio 2020.3.1
-  - Xcode 13
-  - Appium 1.20
+  - java
+technologies:
+  - docker
 about: docs/about.md
 use-cases:
-  - title: Configurar ambiente
+  - title: content: docs/use-case.md
     content: docs/use-case.md
