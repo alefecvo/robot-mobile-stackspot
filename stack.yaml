@@ -5,8 +5,7 @@ picture: stack.png
 category: backend
 compatibility:
   - java
-technologies:
-  - docker
+technologies: ["Docker"]
 about: docs/about.md
 use-cases:
   - title: content: docs/use-case.md
