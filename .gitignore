@@ -1,3 +1,6 @@
 .logs/
 logs/
 __pycache__/
+*.apk
+*.app
+*.ipa
