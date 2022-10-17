@@ -1,10 +1,10 @@
 ### Sobre
-A Stack API RestAssured te ajudará a configurar ambiente para realizar o desenvolvimento de testes automatizados
+A Stack Mobile RobotFramework te ajudará a configurar ambiente para realizar o desenvolvimento de testes automatizados
 
 ### Para importar a stack:
 
 ```bash
-stk import stack https://github.com/alefecvo/restassured-api-stackpost.git
+stk import stack https://github.com/alefecvo/robot-mobile-stackspot.git
 ```
 
 ### Para listar as stacks instaladas:
@@ -16,6 +16,6 @@ stk list stack
 ### Para criar o projeto baseado no template:
 
 ```bash
-stk create app <nomeprojeto> -t restassured-api-stackspot/template-api-restassured
+stk create app <nomeprojeto> -t robot-mobile-stackspot/template-mobile-robot
 ```
 
