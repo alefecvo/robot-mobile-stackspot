@@ -1,2 +1,4 @@
-# robot-mobile-stackspot
-repositório criado para geração de projeto para testes automatizados mobile usando robotframework
+### Sobre
+A Stack Mobile RobotFramework te ajudará a configurar ambiente para realizar o desenvolvimento de testes automatizados
+
+

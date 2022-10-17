@@ -1,0 +1,5 @@
+type: app
+description: Projeto para teste automatizado pra Mobile utilizando RobotFramework
+# template used to create the project
+template: robot-mobile-stackspot/<template-name>
+
