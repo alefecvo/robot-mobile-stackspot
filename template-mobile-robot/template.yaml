@@ -1,5 +1,5 @@
-name: template-mobile-robotframework
-description: "template dos testes de Mobile com RobotFramework"
+name: template-mobile-robot
+description: template dos testes de Mobile com RobotFramework
 types:
   - app-template
 inputs:
