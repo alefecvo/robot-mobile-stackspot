@@ -1,0 +1,3 @@
+*** Settings ***
+
+Resource        loginPages.resource
