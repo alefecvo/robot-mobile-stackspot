@@ -7,6 +7,3 @@ compatibility:
   - java
 technologies: ["Docker"]
 about: docs/about.md
-use-cases:
-  - title: content: docs/use-case.md
-    content: docs/use-case.md
